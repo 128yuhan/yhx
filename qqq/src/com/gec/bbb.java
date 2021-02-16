@@ -8,4 +8,7 @@ public interface bbb {
 	
 	//再加一个ccc方法
 	void ccc();
+	
+	//随便试试拉取
+	void dd();
 }
